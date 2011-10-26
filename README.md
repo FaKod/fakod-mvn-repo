@@ -1,7 +1,7 @@
 Maven Repository
 ----------------
 
-Sould work with the following pom.xml entry:
+Should work with the following pom.xml entry:
 
      <repository>
          <id>fakod-snapshots</id>
