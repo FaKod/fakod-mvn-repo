@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.neo4j</groupId>
+  <artifactId>neo4j-rest-graphdb</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1.5-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20120328152628</lastUpdated>
+  </versioning>
+</metadata>
