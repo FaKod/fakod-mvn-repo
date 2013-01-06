@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.scala-libs</groupId>
+  <artifactId>sjersey-client_2.9.2</artifactId>
+  <versioning>
+    <versions>
+      <version>0.3.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130106111544</lastUpdated>
+  </versioning>
+</metadata>
